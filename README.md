@@ -4,8 +4,8 @@
 The picture shows two pretty opposing views on what cryptography is:
 
 <p float="left">
-  <img src="./pics/1.png" width="100" />
-  <img src="./pics/2.png" width="100" /> 
+  <img src="./pics/1.png" width="300" />
+  <img src="./pics/2.png" width="300" /> 
 </p>
 
 On the left, cryptography is defined as primarily a practice of encryption and signing.

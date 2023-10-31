@@ -22,9 +22,9 @@ In this blog post we list three unexpected properties that cryptography can deli
 into real-world systems. We hope to make things clearer for security practioners and engineers
 in regard what cryptography nowdays as is and how exciting and unpredictable its future may be.
 
-### Makwa: delegatable password hashing function
+### Delegatable password hashing
 
-TBD 1Password whitepaper PDF mentions this hash function as a way to resolve the limitation of clients' computation bottleneck via delegation
+TBD 1Password whitepaper PDF mentions Makwa hash function as a way to resolve the limitation of clients' computation bottleneck via delegation
 
 ### Slowable encoders
 
